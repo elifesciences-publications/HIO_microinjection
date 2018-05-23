@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Hill et al., "Bacterial colonization stimulates a complex physiological response in the immature human intestinal epithelium". eLife, 2017. http://dx.doi.org/10.7554/eLife.29132
+
+
 # Real-time measurement of epithelial barrier permeability in human intestinal organoids
 
 David R. Hill<sup>1#</sup>, Sha Huang<sup>1</sup>, Yu-Hwai Tsai<sup>1</sup>, Jason R. Spence<sup>1,2</sup>, and Vincent B. Young<sup>1,3,4</sup>,
